@@ -5,6 +5,8 @@ description: Black and white image of empty bottles on a metal lid with a concre
 file: /courses/24-03-good-food-ethics-and-politics-of-food-spring-2017/c971f763817338d412c871305bc68287_24-03_chp-th.jpg
 file_size: 4955
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Empty bottles discarded outside a city building is one of many examples
     of food waste. This image is in the public domain.

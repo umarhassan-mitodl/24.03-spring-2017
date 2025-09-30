@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: ''
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -145,7 +147,7 @@ _No lecture notes available_
 14: Film Screening
 {{< tdclose >}}
 {{< tdopen >}}
-Watch {{% resource_link "0216c02f-ca5e-4b54-89f1-185ccd161215" "Flow: For the Love of Water" %}}
+Watch [Flow: For the Love of Water](http://www.imdb.com/title/tt1149583/)
 {{< tdclose >}}
 
 {{< trclose >}}

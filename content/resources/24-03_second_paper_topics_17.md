@@ -4,6 +4,8 @@ description: Writing prompts for the second paper in 24.03 2017
 file: /courses/24-03-good-food-ethics-and-politics-of-food-spring-2017/8a738f3f056c27ef7acefce159d66690_24.03_Second_Paper_Topics_17.pdf
 file_size: 95124
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
