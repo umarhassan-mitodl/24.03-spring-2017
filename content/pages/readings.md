@@ -24,7 +24,7 @@ No readings
 
 Required:
 
-Keating, Joshua E. "[How food explains the world.](http://foreignpolicy.com/2011/04/25/how-food-explains-the-world/)" *Foreign Policy* 186 (2011): 73.
+Keating, Joshua E. "{{% resource_link "ed21a997-e350-4247-b39c-524569c97c8d" "How food explains the world." %}}" *Foreign Policy* 186 (2011): 73.
 
 Wallace, David Foster. "Consider the Lobster" *Gourmet*. Last modified August, 2004.
 
@@ -42,7 +42,7 @@ Required:
 
 Recommended:
 
-Sinnott-Armstrong, Walter. "[Consequentialism](https://stanford.library.sydney.edu.au/entries/consequentialism/)." (2003).
+Sinnott-Armstrong, Walter. "{{% resource_link "853c41d3-2b07-4f8c-a6a5-70fd6d2e7884" "Consequentialism" %}}." (2003).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4: Global Hunger (Harm Principle)
@@ -56,7 +56,7 @@ Recommended:
 
  "Lifeboat Ethics" in Pojman, Louis, Paul Pojman, Katie McShane. *Food Ethics*. Cengage Learning, 2016. ISBN: 978-1285197319
 
-Brink, David. "Section 3.6: The Harm Principle" in [Mill's Moral and Political Philosophy](https://stanford.library.sydney.edu.au/entries/mill-moral-political/). Stanford Encyclopedia of Philosophy, 2007.
+Brink, David. "Section 3.6: The Harm Principle" in {{% resource_link "90b20b64-3f00-4205-84ac-d47a91a38f7e" "Mill's Moral and Political Philosophy" %}}. Stanford Encyclopedia of Philosophy, 2007.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5: Global Hunger (Political Approaches)
@@ -64,17 +64,17 @@ Brink, David. "Section 3.6: The Harm Principle" in [Mill's Moral and Political P
 
 Required:
 
-Kuper, Andrew. "[More Than Charity: Cosmopolitan Alternatives to the "Singer Solution"](http://onlinelibrary.wiley.com/doi/10.1111/j.1747-7093.2002.tb00378.x/abstract)." *Ethics and International Affairs* 16, no. 1 (2002): 107-128.
+Kuper, Andrew. "{{% resource_link "843cfb6d-d4a4-4ddc-87d4-d0c59c17203c" "More Than Charity: Cosmopolitan Alternatives to the \"Singer Solution\"" %}}." *Ethics and International Affairs* 16, no. 1 (2002): 107-128.
 
-Singer, Peter. "[Poverty, Facts, and Political Philosophies: Response to "More Than Charity"](http://onlinelibrary.wiley.com/doi/10.1111/j.1747-7093.2002.tb00379.x/full)." *Ethics and International Affairs* 16, no. 1 (2002): 121-124
+Singer, Peter. "{{% resource_link "8b92c6a6-7713-4fa8-baf8-1fa4ec2324cf" "Poverty, Facts, and Political Philosophies: Response to \"More Than Charity\"" %}}." *Ethics and International Affairs* 16, no. 1 (2002): 121-124
 
-Kuper, Andrew. "[Facts, Theories, and Hard Choices](https://www.cambridge.org/core/journals/ethics-and-international-affairs/article/facts-theories-and-hard-choices/C914612525AC49B51AD6F765225DFC74)." *Ethics and International Affairs* 16, no. 2 (2002): 125-126.
+Kuper, Andrew. "{{% resource_link "85c5501d-7cd5-4c95-b33b-3c842a9176e7" "Facts, Theories, and Hard Choices" %}}." *Ethics and International Affairs* 16, no. 2 (2002): 125-126.
 
 \[FES\] Page 75, Sen, Amartya. "Hunger and Entitlements"
 
 Recommended:
 
-Burchi, Francesco, and Pasquale De Muro. "[A Human Development and Capability Approach to Food Security: Conceptual Framework and Informational Basis](https://www.researchgate.net/profile/Pasquale_De_Muro/publication/257616641_A_Human_Development_and_Capability_Approach_to_Food_Security_Conceptual_Framework_and_Informational_Basis/links/00b7d5257ee4d43acb000000/A-Human-Development-and-Capability-Approach-to-Food-Security-Conceptual-Framework-and-Informational-Basis.pdf)." *Background paper,* no. 8 (2012).
+Burchi, Francesco, and Pasquale De Muro. "{{% resource_link "6820e8e7-5191-4149-909d-412d891b585b" "A Human Development and Capability Approach to Food Security: Conceptual Framework and Informational Basis" %}}." *Background paper,* no. 8 (2012).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6: Famine Relief: Ethics or Politics
@@ -84,11 +84,11 @@ Required:
 
 \[FES\] Page 84, Banerjee, Abhijit and Duflo, Esther. "More Than One Billion People Are Hungry in the World, But What if the Experts Are Wrong?"
 
-Iltis, Tony. "[Kenya: Flower Cash Crops Reap Hunger, Destruction](https://www.greenleft.org.au/content/kenya-flower-cash-crops-reap-hunger-destruction)." *Green Left Weekly* 13 (2011).
+Iltis, Tony. "{{% resource_link "142d4040-f93d-4121-bf58-2d75ac41bebd" "Kenya: Flower Cash Crops Reap Hunger, Destruction" %}}." *Green Left Weekly* 13 (2011).
 
 Recommended:
 
-Freidberg, Susanne. "[French beans for the masses: a modern historical geography of food in Burkina Faso](http://www.sciencedirect.com/science/article/pii/S0305748802904871)." *Journal of Historical Geography* 29, no. 3 (2003): 445-463.
+Freidberg, Susanne. "{{% resource_link "0f9e6683-1469-4e9e-93f1-20e10d227196" "French beans for the masses: a modern historical geography of food in Burkina Faso" %}}." *Journal of Historical Geography* 29, no. 3 (2003): 445-463.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7: Justice and Oppression
@@ -120,7 +120,7 @@ Required:
 
 \[FES\] Pages 226-238, "Food and Identity"
 
-Murcott, Anne. "[The cultural significance of food and eating](https://www.cambridge.org/core/journals/proceedings-of-the-nutrition-society/article/the-cultural-significance-of-food-and-eating/2F87816DFE1DFB1A14E72D64BDA66DD6)." *Proceedings of the Nutrition Society* 41, no. 02 (1982): 203-210.
+Murcott, Anne. "{{% resource_link "db5667d1-3d51-476b-afab-e41ed337a83c" "The cultural significance of food and eating" %}}." *Proceedings of the Nutrition Society* 41, no. 02 (1982): 203-210.
 
 Recommended:
 
@@ -152,7 +152,7 @@ Required:
 
 \[FES\] Page 11, Estabrook, Barry. "The Price of Tomatoes"
 
-McWilliams, James. "[PTSD in the Slaughterhouse](https://www.texasobserver.org/ptsd-in-the-slaughterhouse/)." *The Texas Observer* (2012).
+McWilliams, James. "{{% resource_link "925ade23-43c7-4477-b3cf-da662b5fde3a" "PTSD in the Slaughterhouse" %}}." *The Texas Observer* (2012).
 
 \[FES\] Page 160, Thompson, Paul B. "Food Security and Food Sovereignty"
 
@@ -172,14 +172,14 @@ Required:
 
 Required:
 
-Hylton, Wil S. "[A Bug in the System: Why last night's chicken made you sick](http://www.newyorker.com/magazine/2015/02/02/bug-system)." *The New Yorker* (2015).
+Hylton, Wil S. "{{% resource_link "1111edaf-6f2f-47b6-8b9c-657b39b9ad99" "A Bug in the System: Why last night's chicken made you sick" %}}." *The New Yorker* (2015).
 
-Moss, Michael. "[The Extraordinary Science of Addictive Junk Food](http://www.nytimes.com/2013/02/24/magazine/the-extraordinary-science-of-junk-food.html)." *New York Times* (2013).
+Moss, Michael. "{{% resource_link "efeadc17-f8b7-4a66-839f-1572026580b1" "The Extraordinary Science of Addictive Junk Food" %}}." *New York Times* (2013).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14: Film Screening
 {{< tdclose >}}{{< tdopen >}}
-Watch [Flow: For the Love of Water](http://www.flowthefilm.com/)
+Watch {{% resource_link "867884c4-ce33-42a7-abeb-dd9bc43122f4" "Flow: For the Love of Water" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15: Capitalism and the Food System, part 2
 {{< tdclose >}}{{< tdopen >}}
@@ -192,13 +192,13 @@ Required:
 
 \[FES\] Page 352, Singer, Peter. "All Animals Are Equal"
 
-Steinbock, Bonnie. "[Speciesism and the Idea of Equality](https://www.cambridge.org/core/journals/philosophy/article/speciesism-and-the-idea-of-equality/89C0A6DD4548DFB68B5C67E227A3A16A)." *Philosophy* 53, no. 204 (1978): 247-256.
+Steinbock, Bonnie. "{{% resource_link "20e5c383-ddf9-48ec-931e-f573fc377a43" "Speciesism and the Idea of Equality" %}}." *Philosophy* 53, no. 204 (1978): 247-256.
 
 Recommended:
 
 \[FES\] Page 362, Tännsjö, Torbjörn. "It's Getting Better All the Time"
 
-Norcross, Alastair. "[Puppies, Pigs, and People: Eating Meat and Marginal Cases](http://onlinelibrary.wiley.com/doi/10.1111/j.1520-8583.2004.00027.x/abstract)." *Philosophical Perspectives* 18, no. 1 (2004): 229-245.
+Norcross, Alastair. "{{% resource_link "fe073b26-c7fd-4da6-9810-194d52bb71f9" "Puppies, Pigs, and People: Eating Meat and Marginal Cases" %}}." *Philosophical Perspectives* 18, no. 1 (2004): 229-245.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17: Respect for Animals
@@ -250,17 +250,17 @@ Required:
 
 \[FES\] Page 490, McKibben, Bill. "A Grand Experiment"
 
-de Bres, Helena. "[Local Food: The Moral Case](http://www.academia.edu/19610551/Local_Food_The_Moral_Case)."
+de Bres, Helena. "{{% resource_link "c71aa135-f4d4-427d-8007-6b907032be29" "Local Food: The Moral Case" %}}."
 
 Recommended:
 
 \[FES\] Page 440, Desrochers, Pierre and Shimizu, Hiroko. "The Locavore's Dilemma"
 
-"[Good Food?](http://www.economist.com/node/8381375)" *The Econ\_\_omist.* Last modified December 7, 2006. 
+"{{% resource_link "10c399e5-3b09-47aa-9688-310bbdd6ee9e" "Good Food?" %}}" *The Econ\_\_omist.* Last modified December 7, 2006. 
 
-Rob Johnston. "[The Great Organic Myths](http://www.independent.co.uk/environment/green-living/the-great-organic-myths-why-organic-foods-are-an-indulgence-the-world-cant-afford-818585.html)." *Independent*. Last modified April 30, 2008. 
+Rob Johnston. "{{% resource_link "c29222cb-a6ad-474e-bdb6-530704097f64" "The Great Organic Myths" %}}." *Independent*. Last modified April 30, 2008. 
 
-[Food, for Free website](http://www.foodforfree.org/)
+{{% resource_link "45db9108-2252-4b6b-893e-52a0ed88b055" "Food, for Free website" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22: Industrial Plant Agriculture
@@ -274,7 +274,7 @@ Required:
 
 Recommended:
 
-"[Hidden Costs of Industrial Agriculture](http://www.ucsusa.org/food_and_agriculture/our-failing-food-system/industrial-agriculture/hidden-costs-of-industrial.html)." *Union of Concerned Scientists*.
+"{{% resource_link "7aebfc4b-0518-4748-b362-fcb98e2e7b18" "Hidden Costs of Industrial Agriculture" %}}." *Union of Concerned Scientists*.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23: Environmentalism
